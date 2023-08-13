@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vladislavnikolov.dev/](https://vladislavnikolov.dev/)
 
-- 💬 Ask me about **anything!**
-
 - 📫 You can reach me on **vladoyoung@gmail.com**
+
+- 💬 Ask me about **anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
