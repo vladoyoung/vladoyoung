@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladoyoung&label=Profile%20views&color=0e75b6&style=flat" alt="vladoyoung" /> </p>
 
+Are you a numbers person looking for my contributions throughout the years? They didn't migrate properly so here you go: [2023](https://vladislavnikolov.dev/documents/old_github_2023.png) [2022](https://vladislavnikolov.dev/documents/old_github_2022.png) [2021](https://vladislavnikolov.dev/documents/old_github_2021.png) [2020](https://vladislavnikolov.dev/documents/old_github_2020.png)
+
 - 🌱 I’m currently learning **Computer Science (edX CS50), German and anything that comes!**
 
-- 👨‍💻 All of my projects are available at [https://vladislavnikolov.dev/](https://vladislavnikolov.dev/)
+- 👨‍💻 All of my projects are available at **[https://vladislavnikolov.dev/](https://vladislavnikolov.dev/)**
 
 - 📫 You can reach me on **vladoyoung@gmail.com**
 
